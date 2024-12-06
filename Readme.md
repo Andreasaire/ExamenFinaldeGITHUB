@@ -1,2 +1,2 @@
-Este es un proyeecto de la universidad
-EQUIPO DINAMITA
+Este es un proyecto de la universidad
+EXAMEN DE GITHUB
