@@ -17,8 +17,17 @@ int main()
     cout << "Suma --> " << totalsuma << "\n";
     cout << "Resta --> " << totalresta << "\n";
 
-    return 0; 
-	
+
 	//ANDREA >> MULTIPLICACION, DIVISION
+
+    int totalmultiplicacion, totaldivision;
+
+    totalmultiplicacion = num1 * num2;
+    totaldivision = num1 / num2;
+
+    cout << "Multiplicacion --> " << totalmultiplicacion << "\n";
+    cout << "Division --> " << totaldivision << "\n";
+
+    return 0; 
 	//EFRAIN >> POTENCIACION - RAIZ
 }
